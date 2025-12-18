@@ -1,3 +1,6 @@
+
+https://github.com/codespaces/new/MicrosoftDocs/mslearn-advanced-copilot
+
 Step 1: Add a new route
 Open the main.py file, and use the inline chat with the command Ctrl+i (on Windows) or Command+i (on Mac). This command asks GitHub Copilot to help you create a new API that shows you the cities of a country.
  
